@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExamenMiravetePerezJuan</string>
+    <string name="log_in">Log In</string>
+    <string name="nombre">Nombre</string>
+    <string name="email">Email</string>
+    <string name="contrasena">Contraseña:</string>
+    <string name="_123456789">123456789</string>
+    <string name="bienvenido_a_netflix">¡Bienvenido a NETFLIX!</string>
+    <string name="nombres">Nombre:</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+</resources>
